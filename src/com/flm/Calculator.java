@@ -8,7 +8,7 @@ public class Calculator {
 		public static void main(String[] args) {
 
 			char operator;
-			Double number1, number2, result;
+			Double number1, number2, number3, result;
 
 			// create an object of Scanner class
 			Scanner input = new Scanner(System.in);
